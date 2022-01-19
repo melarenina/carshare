@@ -3,7 +3,7 @@ import Header from "./ui/header";
 import Descricao from "./componentes/descricao";
 import Features from "./componentes/features";
 import Avaliacoes from "./componentes/avaliacoes";
-import Contador from "./componentes/contador";
+import Clima from "./componentes/clima";
 import Footer from "./ui/footer";
 import Principal from "./componentes/principal";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
@@ -35,7 +35,7 @@ function App() {
 
           <Route path="/avaliacoes" element={<Avaliacoes />} />
 
-          <Route path="/contador" element={<Contador />} />
+          <Route path="/clima" element={<Clima />} />
         </Routes>
       </BrowserRouter>
 

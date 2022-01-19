@@ -40,13 +40,17 @@ const Header = () => {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link page-scroll" href="/contador">
-                  USUÁRIOS
+                <a className="nav-link page-scroll" href="/clima">
+                  CHEQUE O CLIMA!
                 </a>
               </li>
             </ul>
             <span className="nav-item">
-              <a className="btn-outline-sm page-scroll" href="#download">
+              <a
+                className="btn-outline-sm page-scroll"
+                href="https://www.apple.com/br/app-store/"
+                target="_blank"
+              >
                 DOWNLOAD
               </a>
             </span>

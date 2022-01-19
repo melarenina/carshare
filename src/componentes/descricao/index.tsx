@@ -17,39 +17,30 @@ const Descricao = () => {
             </div>
             <div className="col-lg-6">
               <div className="text-container">
-                <h2>Organize Your Time And Start Getting Results</h2>
+                <h2>Organize seu tempo e nunca mais chegue atrasado!</h2>
                 <p>
-                  Sync is the first mobile app on the market to harness the
-                  power of social connections to help you stop procrastinating
-                  and start getting things done. Give it a try and see the
-                  changes right away
+                  Através desse aplicativo, você pode selecionar suas pessoas
+                  favoritas para pedir carona, economizando gasolina e ajudando
+                  o meio ambiente com menos poluição nas ruas.
                 </p>
                 <ul className="list-unstyled li-space-lg">
                   <li className="media">
                     <i className="fas fa-square"></i>
                     <div className="media-body">
-                      Analyse and evaluate your current status and productivity
+                      Seleciona caronas favoritas
                     </div>
                   </li>
                   <li className="media">
                     <i className="fas fa-square"></i>
                     <div className="media-body">
-                      Begin monitoring your day to day routine with Sync app
+                      Organize por ordem de preferência
                     </div>
                   </li>
                   <li className="media">
                     <i className="fas fa-square"></i>
-                    <div className="media-body">
-                      See the improved results in no more than a couple of weeks
-                    </div>
+                    <div className="media-body">Seja feliz :)</div>
                   </li>
                 </ul>
-                <a
-                  className="btn-solid-reg popup-with-move-anim"
-                  href="#description-1-details-lightbox"
-                >
-                  LIGHTBOX
-                </a>
               </div>
             </div>
           </div>
@@ -68,59 +59,6 @@ const Descricao = () => {
           >
             ×
           </button>
-          <div className="col-lg-8">
-            <div className="image-container">
-              <img
-                className="img-fluid"
-                src="images/description-1-details-lightbox.jpg"
-                alt="alternative"
-              />
-            </div>
-          </div>
-          <div className="col-lg-4">
-            <h3>Goals Setting</h3>
-            <hr />
-            <p>
-              The app can easily help you track your personal development
-              evolution if you take the time to set it up.
-            </p>
-            <h4>User Feedback</h4>
-            <p>
-              This is a great app which can help you save time and make your
-              live easier. And it will help improve your productivity.
-            </p>
-            <ul className="list-unstyled li-space-lg">
-              <li className="media">
-                <i className="far fa-check-square"></i>
-                <div className="media-body">Splash screen panel</div>
-              </li>
-              <li className="media">
-                <i className="far fa-check-square"></i>
-                <div className="media-body">Statistics graph report</div>
-              </li>
-              <li className="media">
-                <i className="far fa-check-square"></i>
-                <div className="media-body">Events calendar layout</div>
-              </li>
-              <li className="media">
-                <i className="far fa-check-square"></i>
-                <div className="media-body">Location details screen</div>
-              </li>
-              <li className="media">
-                <i className="far fa-check-square"></i>
-                <div className="media-body">Onboarding steps interface</div>
-              </li>
-            </ul>
-            <a className="btn-solid-reg mfp-close page-scroll" href="#download">
-              DOWNLOAD
-            </a>{" "}
-            <button
-              className="btn-outline-reg mfp-close as-button"
-              type="button"
-            >
-              BACK
-            </button>
-          </div>
         </div>
       </div>
 
@@ -140,7 +78,7 @@ const Descricao = () => {
                       aria-controls="tab-1"
                       aria-selected="true"
                     >
-                      <i className="far fa-clock"></i>Schedule
+                      <i className="far fa-clock"></i>Programe
                     </a>
                   </li>
                   <li className="nav-item">
@@ -179,47 +117,35 @@ const Descricao = () => {
                     aria-labelledby="tab-1"
                   >
                     <p>
-                      <strong>Schedule tasks</strong> to keep track of their
-                      completion. Sync provides multiple scheduling options
-                      including alarms and reminders.
+                      <strong>Programe caronas</strong> para manter registro de
+                      locais e caronas compleas. A sincronização oferece várias
+                      opções de agendamento incluindo alarmes e lembretes.
                     </p>
                     <ul className="list-unstyled li-space-lg">
                       <li className="media">
                         <i className="far fa-check-square"></i>
                         <div className="media-body">
-                          You can always add new tasks or change the settings of
-                          existing ones in your calendar view or the app control
-                          panel
+                          Você sempre pode adicionar novas caronas ou alterar as
+                          configurações das existentes na visualização do
+                          calendário ou no painel de controle do aplicativo
                         </div>
                       </li>
                       <li className="media">
                         <i className="far fa-check-square"></i>
                         <div className="media-body">
-                          It's easy to stay focused on your most important daily
-                          activities that will get you closer to meeting your
-                          goals
+                          É fácil manter o foco em suas atividades diárias mais
+                          importantes que o aproximarão de seus objetivos
                         </div>
                       </li>
                       <li className="media">
                         <i className="far fa-check-square"></i>
                         <div className="media-body">
-                          Use phone reminders to free up your long term memory
-                          which will reduce stress and make you more productive
+                          Use lembretes de telefone para liberar sua memória de
+                          longo prazo, o que reduzirá o estresse e o tornará
+                          mais produtivo
                         </div>
                       </li>
                     </ul>
-                    <a
-                      className="btn-solid-reg page-scroll"
-                      href="terms-conditions.html"
-                    >
-                      TERMS
-                    </a>{" "}
-                    <a
-                      className="btn-outline-reg page-scroll"
-                      href="privacy-policy.html"
-                    >
-                      PRIVACY
-                    </a>
                   </div>
                   <div
                     className="tab-pane fade"
@@ -228,26 +154,19 @@ const Descricao = () => {
                     aria-labelledby="tab-2"
                   >
                     <p>
-                      <strong>Keep track of everything</strong> and analyse your
-                      progress while using the app. In less than a month you
-                      should be seeing improved results when it comes to time
-                      management and task prioritization
+                      <strong>Acompanhe tudo</strong> e analise seu progresso
+                      enquanto usa o aplicativo. Em menos de um mês, você deve
+                      estar vendo melhores resultados quando se trata de gastos
+                      e habilidade social.
                     </p>
                     <p>
-                      <strong>Anyone can enjoy the app</strong> no matter their
-                      gender, age, occupation or location in the world. Sync's
-                      algorithms have been built to be flexible and functional
-                      for any person in the world
+                      <strong>
+                        Qualquer pessoa pode desfrutar do aplicativo
+                      </strong>{" "}
+                      não importa seu sexo, idade, ocupação ou localização no
+                      mundo. Os algoritmos do Sync foram desenvolvidos para
+                      serem flexíveis e funcionais para qualquer pessoa no mundo
                     </p>
-                    <p>
-                      <strong>Achieve the impossible</strong> just by carefully
-                      monitoring your progress and keeping the app updated with
-                      daily operations. It's easier than you think and it only
-                      takes a couple of minutes
-                    </p>
-                    <a className="red" href="terms-conditions.html">
-                      Terms & Conditions
-                    </a>
                   </div>
                   <div
                     className="tab-pane fade"
@@ -256,40 +175,33 @@ const Descricao = () => {
                     aria-labelledby="tab-3"
                   >
                     <p>
-                      <strong>Use the power of social interactivity</strong> to
-                      keep you motivated and focused on your daily and long term
-                      goals. It's revolutionary
+                      <strong>Use o poder da interatividade social</strong> para
+                      mantê-lo motivado e focado em seus objetivos diários e de
+                      longo prazo. É revolucionário
                     </p>
                     <ul className="list-unstyled li-space-lg">
                       <li className="media">
                         <i className="far fa-check-square"></i>
                         <div className="media-body">
-                          Commiting to something in front of a crowd gives you
-                          little room to walk back on your promise and makes you
-                          push on
+                          Comprometer-se com algo na frente de uma multidão lhe
+                          dá pouco espaço para voltar atrás em sua promessa e
+                          faz você seguir em frente
                         </div>
                       </li>
                       <li className="media">
                         <i className="far fa-check-square"></i>
                         <div className="media-body">
-                          No more frustrations of loosing focus and not being
-                          efficient. Sync main purpose is to solve just that and
-                          make you happy
+                          Chega de gastar, chegar atrasado e não ser eficiente.
+                          O objetivo principal do Sync é resolver exatamente
+                          isso e fazer você feliz
                         </div>
                       </li>
                       <li className="media">
                         <i className="far fa-check-square"></i>
                         <div className="media-body">
-                          It's the first mobile app that can turn you in a
-                          better organized person without the pressure of
-                          failing like other systems
-                        </div>
-                      </li>
-                      <li className="media">
-                        <i className="far fa-check-square"></i>
-                        <div className="media-body">
-                          Recognized by a lot of trainers and life coaches Sync
-                          is the number one tool they recommend time management
+                          É o primeiro aplicativo móvel que pode transformá-lo
+                          em uma pessoa mais organizada e boa para o meio
+                          ambiente sem a pressão de falhar como outros sistemas
                         </div>
                       </li>
                     </ul>

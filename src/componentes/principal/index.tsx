@@ -6,17 +6,22 @@ const Principal = () => {
           <div className="row">
             <div className="col-lg-12">
               <div className="text-container">
-                <h1>Mobile App Landing Page</h1>
+                <h1>CarShare</h1>
                 <p className="p-large p-heading">
-                  Start focusing on your goals and get more things done with
-                  Sync mobile application. It's the first app to harness the
-                  power of social connections to help you stay focused and get
-                  organized
+                  Economize gasolina e ganhe um amigo (e uma carona!)
                 </p>
-                <a className="btn-solid-lg" href="#your-link">
+                <a
+                  className="btn-solid-lg"
+                  href="https://www.apple.com/br/app-store/"
+                  target="_blank"
+                >
                   <i className="fab fa-apple"></i>DOWNLOAD
                 </a>
-                <a className="btn-solid-lg" href="#your-link">
+                <a
+                  className="btn-solid-lg"
+                  href="https://play.google.com/store"
+                  target="_blank"
+                >
                   <i className="fab fa-google-play"></i>DOWNLOAD
                 </a>
               </div>
@@ -59,7 +64,7 @@ const Principal = () => {
                   <i className="fas fa-users"></i>
                 </div>
                 <div className="card-body">
-                  <h5 className="card-title">Identify Goals</h5>
+                  <h5 className="card-title">Identificar objetivos</h5>
                 </div>
               </div>
 
@@ -68,7 +73,7 @@ const Principal = () => {
                   <i className="fas fa-code"></i>
                 </div>
                 <div className="card-body">
-                  <h5 className="card-title">Situation Analysis</h5>
+                  <h5 className="card-title">Análise das situações</h5>
                 </div>
               </div>
 
@@ -77,7 +82,7 @@ const Principal = () => {
                   <i className="fas fa-cog"></i>
                 </div>
                 <div className="card-body">
-                  <h5 className="card-title">Tasks Settings</h5>
+                  <h5 className="card-title">Configurações das tarefas</h5>
                 </div>
               </div>
 
@@ -86,7 +91,7 @@ const Principal = () => {
                   <i className="fas fa-comments"></i>
                 </div>
                 <div className="card-body">
-                  <h5 className="card-title">Social Interaction</h5>
+                  <h5 className="card-title">Interações sociais</h5>
                 </div>
               </div>
 
@@ -95,7 +100,7 @@ const Principal = () => {
                   <i className="fas fa-rocket"></i>
                 </div>
                 <div className="card-body">
-                  <h5 className="card-title">Get Things Done</h5>
+                  <h5 className="card-title">Faça acontecer!</h5>
                 </div>
               </div>
             </div>

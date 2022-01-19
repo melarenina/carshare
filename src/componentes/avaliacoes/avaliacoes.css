@@ -1,0 +1,13 @@
+.avaliacoes-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: row;
+}
+
+.submit {
+  width: 35%;
+}
